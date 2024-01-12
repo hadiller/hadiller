@@ -22,3 +22,36 @@ img{
     display: flex;
     gap: 20px;
 }
+.intro {
+    margin-top: 100px;    
+}
+
+.intro__content{
+    display: flex;
+    justify-content: space-around;
+}
+.intro__content-card img{
+    width: 800px;
+    height: 500px;
+}
+.intro__content-card {
+    text-align: center;
+}
+.intro__content-card-title {
+    max-height: 40px;
+    display: flex;
+}
+.intro__content-card-title img{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    left: 250px;
+}
+p{
+    position: relative;
+    left: 250px;
+}
+.header__logos-text {
+    position:static;
+
+}
