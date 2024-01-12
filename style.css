@@ -1,0 +1,24 @@
+img{
+    width: 90px;
+    height: 100px;
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.header__logos{
+    display: flex;
+    justify-content: space-between;
+}
+.header__start{
+   display: flex;
+   justify-content: space-between;
+}
+.icon>img{
+    width: 40px;
+    height: 30px;
+}
+.icon {
+    display: flex;
+    gap: 20px;
+}
